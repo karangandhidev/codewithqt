@@ -1,0 +1,44 @@
+# ninja log v6
+4	107	7593207796843949	project1_autogen/timestamp	bcfe7aaed691046d
+4	107	7593207796843949	project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+4	107	7593207796843949	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/timestamp	bcfe7aaed691046d
+4	107	7593207796843949	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+108	145	7593207797183416	CMakeFiles/project1.dir/project1_autogen/mocs_compilation.cpp.obj	249654fb9e17dbee
+111	982	7593207797208525	CMakeFiles/project1.dir/main.cpp.obj	3a5528a84bffe5fe
+984	1046	7593207805940734	project1.exe	5244319e8eec1190
+13	30	7593213177047964	CMakeFiles/clean.additional	baedbe210acaa455
+30	35	7593213177220747	clean	577b940aee94fbd7
+11	102	7593213178341666	project1_autogen/timestamp	bcfe7aaed691046d
+11	102	7593213178341666	project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+11	102	7593213178341666	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/timestamp	bcfe7aaed691046d
+11	102	7593213178341666	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+102	133	7593213178651220	CMakeFiles/project1.dir/project1_autogen/mocs_compilation.cpp.obj	249654fb9e17dbee
+105	979	7593213178676603	CMakeFiles/project1.dir/main.cpp.obj	3a5528a84bffe5fe
+979	1041	7593213187413395	project1.exe	5244319e8eec1190
+14	28	7593213264056282	CMakeFiles/clean.additional	baedbe210acaa455
+28	32	7593213264185040	clean	577b940aee94fbd7
+27	144	7594029228656253	project1_autogen/timestamp	bcfe7aaed691046d
+27	144	7594029228656253	project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+27	144	7594029228656253	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/timestamp	bcfe7aaed691046d
+27	144	7594029228656253	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+146	280	7594029229051521	CMakeFiles/project1.dir/project1_autogen/mocs_compilation.cpp.obj	249654fb9e17dbee
+148	1118	7594029229070289	CMakeFiles/project1.dir/main.cpp.obj	3a5528a84bffe5fe
+1118	1292	7594029238763038	project1.exe	5244319e8eec1190
+17	88	7594029308657635	project1_autogen/timestamp	bcfe7aaed691046d
+17	88	7594029308657635	project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+17	88	7594029308657635	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/timestamp	bcfe7aaed691046d
+17	88	7594029308657635	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+88	1008	7594029309369177	CMakeFiles/project1.dir/main.cpp.obj	3a5528a84bffe5fe
+1008	1072	7594029318565515	project1.exe	5244319e8eec1190
+17	83	7594029689918397	project1_autogen/timestamp	bcfe7aaed691046d
+17	83	7594029689918397	project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+17	83	7594029689918397	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/timestamp	bcfe7aaed691046d
+17	83	7594029689918397	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+83	1005	7594029690570896	CMakeFiles/project1.dir/main.cpp.obj	3a5528a84bffe5fe
+1005	1069	7594029699796540	project1.exe	5244319e8eec1190
+16	78	7594041671627131	project1_autogen/timestamp	bcfe7aaed691046d
+16	78	7594041671627131	project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+16	78	7594041671627131	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/timestamp	bcfe7aaed691046d
+16	78	7594041671627131	E:/QT Karan Projects/project1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	bcfe7aaed691046d
+79	989	7594041672260316	CMakeFiles/project1.dir/main.cpp.obj	3a5528a84bffe5fe
+990	1056	7594041681370564	project1.exe	5244319e8eec1190
