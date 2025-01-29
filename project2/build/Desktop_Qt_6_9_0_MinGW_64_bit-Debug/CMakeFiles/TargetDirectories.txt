@@ -1,0 +1,9 @@
+E:/QT Karan Projects/project2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/project2.dir
+E:/QT Karan Projects/project2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/QT Karan Projects/project2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/QT Karan Projects/project2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/QT Karan Projects/project2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/QT Karan Projects/project2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/QT Karan Projects/project2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/QT Karan Projects/project2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/project2_autogen_timestamp_deps.dir
+E:/QT Karan Projects/project2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/project2_autogen.dir
